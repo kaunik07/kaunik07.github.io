@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-01-01'
+title: 'Software Engineer Intern'
+company: 'Veritas Technologies'
+location: 'Pune, India'
+range: 'Jan 2021 - June 2021'
+url: 'https://www.veritas.com/'
 ---
 
 - Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community

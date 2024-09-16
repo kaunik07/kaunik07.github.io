@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'WorkOut.AI'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/amanpandey104/Workout.ai'
+# external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code
   - Sublime Text

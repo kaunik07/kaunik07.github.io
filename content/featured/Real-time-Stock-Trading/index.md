@@ -1,14 +1,16 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
+date: '2'
+title: 'Build Real-time Stock Trading WebApp'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/kaunik07/Real-time-Stock-Trading-WebApp'
+external: 'https://stock-kaunik-77.wl.r.appspot.com/search/home'
+cta: ''
 tech:
-  - React
+  - Angular
+  - NodeJS
   - Express
-  - Spotify API
-  - Styled Components
+  - TypeScript
+  - HighChartsJS
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.

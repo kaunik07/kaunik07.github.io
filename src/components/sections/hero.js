@@ -85,8 +85,8 @@ const Hero = () => {
   //   </a>
   // );
 
+  // const items = [one, two, three, four];
   const items = [one, two, four];
-
   return (
     <StyledHeroSection>
       {prefersReducedMotion ? (

@@ -1,9 +1,9 @@
 ---
-date: '2023-04-01'
-title: 'Software Engineer'
+date: '2021-07-01'
+title: 'Associate Software Engineer'
 company: 'Veritas Technologies'
 location: 'Pune, India'
-range: 'April 2023 - Dec 2023'
+range: 'July 2021 - March 2023'
 url: 'https://www.veritas.com/'
 ---
 
